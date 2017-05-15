@@ -3,6 +3,10 @@
     "description": "Edutalk menu",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/menu/issues",
+        "source": "https://github.com/maduong/menu"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
