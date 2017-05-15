@@ -1,0 +1,23 @@
+{
+    "name": "edutalk-cms/menu",
+    "description": "Edutalk menu",
+    "license": "MIT",
+    "homepage": "http://edutalk.vn",
+    "authors": [
+        {
+            "name": "Vuong Pham",
+            "email": "kingdom102@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edutalk\\Base\\Menu\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}

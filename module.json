@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-menus",
+    "name": "Edutalk Menu",
+    "author": "Vuong Pham",
+    "description": "Edutalk menu management package.",
+    "namespace": "Edutalk\\Base\\Menu",
+    "autoload": "psr-4"
+}
